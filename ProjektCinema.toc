@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Instrukcja obsługi.}{1}{section.1}%
+\contentsline {section}{\numberline {2}Opis usług serwera}{9}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Struktura projektu.}{9}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Pakiet "configuration".}{9}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Pakiet "customer".}{10}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Pakiet "show".}{10}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Pakiet "seat".}{11}{subsubsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.2}Opis klasy z funkconalnościami serwera.}{11}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Klasa CustomerController}{12}{subsubsection.2.2.1}%
+\contentsline {paragraph}{\numberline {2.2.1.1}bookSeats}{12}{paragraph.2.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Klasa ShowContoller}{12}{subsubsection.2.2.2}%
+\contentsline {paragraph}{\numberline {2.2.2.1}addShow}{12}{paragraph.2.2.2.1}%
+\contentsline {paragraph}{\numberline {2.2.2.2}getShows}{12}{paragraph.2.2.2.2}%
+\contentsline {paragraph}{\numberline {2.2.2.3}getShow}{12}{paragraph.2.2.2.3}%
+\contentsline {paragraph}{\numberline {2.2.2.4}getShowInfo}{12}{paragraph.2.2.2.4}%
+\contentsline {section}{\numberline {3}Narzędzia użyte do stworzenia oprogramowania}{13}{section.3}%
+\contentsline {section}{\numberline {4}Podział pracy}{16}{section.4}%
+\contentsline {section}{\numberline {5}Linki do repozytorium.}{16}{section.5}%
